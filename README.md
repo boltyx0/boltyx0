@@ -33,7 +33,7 @@ philosophy: "The quieter you become, the more you are able to hear."
 
 ### ☠️ `> > What I Break & Why It Matters`
 
-<div align="center">
+<div align="left">
 
 | Domain | What I Test / Do |
 |:---:|:---|
@@ -95,12 +95,10 @@ philosophy: "The quieter you become, the more you are able to hear."
 PORT      STATE    SERVICE         VERSION
 22/tcp    open     GitHub          github.com/boltyx0
 443/tcp   open     Twitter/X       x.com/boltyx0
-8080/tcp  open     LinkedIn        linkedin.com/in/prathameshbagul
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-boltyx0-00ff41?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/boltyx0)
 [![Twitter](https://img.shields.io/badge/Twitter-boltyx0-00ff41?style=flat-square&logo=x&logoColor=white&labelColor=0a0a0a)](https://x.com/boltyx0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-boltyx0-00ff41?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/prathameshbagul)
 
 </div>
 
