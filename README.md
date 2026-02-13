@@ -73,17 +73,6 @@ philosophy: "The quieter you become, the more you are able to hear."
 | Vulnerable CRM - Intentionally Insecure Web Application | https://github.com/boltyx0/vulnerable-web-app | Intentionally vulnerable web app for DAST scanner testing. Features SQL Injection, XSS, IDOR, CSRF, SSRF, and more vulnerabilities. Flask-based security testing platform |
 </div>
 
----
-
-### 🌐 `> cve_discoveries`
-
-<div align="center">
-  
-| CVE ID | Description |
-|:---:|:---|
-| CVE-2026-XXXX | To be updated |
-| CVE-2026-XXXX | To be updated |
-
 
 ---
 
