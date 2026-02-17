@@ -62,20 +62,6 @@ philosophy: "The quieter you become, the more you are able to hear."
 
 ---
 
-### 📁 `> ls -la projects`
-
-<div align="center">
-
-| Name | Repo | Description |
-|:---:|:---|:---|
-| Offensive Recon Toolkit | To be updated |  Git Repo to be updated  |
-| AWS Cloud Security Checklist | https://github.com/boltyx0/AWS-Checklist |  A practical, security-focused checklist for assessing AWS environments against common misconfigurations, weak controls, and exposure risks.  |
-| Vulnerable CRM - Intentionally Insecure Web Application | https://github.com/boltyx0/vulnerable-web-app | Intentionally vulnerable web app for DAST scanner testing. Features SQL Injection, XSS, IDOR, CSRF, SSRF, and more vulnerabilities. Flask-based security testing platform |
-</div>
-
-
----
-
 ### 🌐 `> nmap -sV social_links`
 
 <div align="left">
